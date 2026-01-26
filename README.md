@@ -257,6 +257,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Mastering CIDRs With Azure Bicep](https://luke.geek.nz/azure/Working-with-CIDR-Azure-Bicep/)
 - [Monitoring canceled Azure Subscriptions](https://cloudadministrator.net/2025/03/12/monitoring-canceled-azure-subscriptions/)
 - [Microsoft Entra ID Governance — Automating Privileged Identity Management in Azure Landing Zones](https://cloudtips.nl/microsoft-entra-id-governance-automating-privileged-identity-management-in-azure-landing-zones-33327c1b4f6c/)
+- [Microsoft Entra Kerberos authentication for Cloud-only Identities on Azure Files SMB](https://cloudtips.nl/microsoft-entra-kerberos-authentication-for-cloud-only-identities-on-azure-files-smb-%EF%B8%8F-8bc9465b0b6c/)
 - [Microsoft.Graph - Custom Bicep Modules](https://blog.builtwithcaffeine.cloud/posts/bicep-microsoft-graph-custom-modules/)
 - [Native Bicep deployments using Bicep's CLI](https://www.idontlikeai.dev/native-bicep-deployments-using-biceps-cli/)
 - [New ALZ Accelerator: lessons learned](https://azurescholar.cloud/new-alz-accelerator-lessons-learned)
