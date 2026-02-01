@@ -23,10 +23,10 @@
        "pattern": "^https://blog.azinsider.net"
     },
     {
-       "pattern": "^https://blog.azinsider.net"
+       "pattern": "^https://enlear.academy"
     },
     {
-       "pattern": "^https://enlear.academy"
+       "pattern": "^ https://azurescholar.cloud"
     }
   ]
 }
