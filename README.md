@@ -236,6 +236,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Enhance objects with User-Defined Types in Azure Bicep](https://johnlokerse.dev/2023/11/06/enhance-objects-with-user-defined-types-in-azure-bicep/)
 - [Enhance the readability of Azure Bicep templates with these tips](https://johnlokerse.dev/2024/09/03/enhance-the-readability-of-azure-bicep-templates-with-these-tips/)
 - [Ensuring SQL Server Compliance with Bicep and Azure Policy](https://sqlstad.nl/posts/2025/ensuring-sql-server-compliance-with-bicep-and-azure-policy/)
+- [Experiment, Prototype, and Validate Azure Bicep with the Bicep Console](https://johnlokerse.dev/2025/12/01/experiment-prototype-and-validate-azure-bicep-with-the-bicep-console/)
 - [Exploring the Bicep test framework](https://msftplayground.com/2024/12/exploring-bicep-test-framework)
 - [From Azure Bicep template to Azure resource](https://johnlokerse.dev/2024/07/15/from-azure-bicep-template-to-azure-resource/)
 - [From Prompt to Bicep: GitHub Copilot for Azure in Action](https://johnlokerse.dev/2025/06/30/from-prompt-to-bicep-github-copilot-for-azure-in-action/)
@@ -309,6 +310,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 - [AzInsider Dave Rendon](https://github.com/daveRendon)
 - [Azure Bicep Advent Calendar - An Azure Bicep journey from basic to advanced aligned to an Advent Calendar](https://insight-services-apac.github.io/2023/11/27/intro-advent-calendar)
+- [Azure Bicep MCP Server Integration with other AI tools](https://github.com/johnlokerse/azure-bicep-mcp-integration-setup)
 - [Azure Bicep Workshop - Deploy full stack app in Azure](https://github.com/erudinsky/Azure-Bicep-Workshop)
 - [Azure Deployment Framework](https://github.com/brwilkinson/AzureDeploymentFramework)
 - [Azure Update Manager Accelerator](https://github.com/ThojoUno/aumAccelerator)
