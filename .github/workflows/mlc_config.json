@@ -26,7 +26,10 @@
        "pattern": "^https://enlear.academy"
     },
     {
-       "pattern": "^ https://azurescholar.cloud"
+       "pattern": "^https://azurescholar.cloud"
+    },
+    {
+       "pattern": "^https://andrewmatveychuk.com/"
     }
   ]
 }
