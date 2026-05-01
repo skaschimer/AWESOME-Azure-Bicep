@@ -274,6 +274,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Pester Unit Tests for Azure Bicep Modules](https://rios.engineer/pester-unit-tests-for-azure-bicep-modules/)
 - [Power Azure Bicep with Best Practices Using GitHub Copilot](https://cloudtips.nl/power-azure-bicep-with-best-practices-using-github-copilot-835716b15546)
 - [Power Up Your Infrastructure with Bicep Extensions](https://msftplayground.com/2025/09/bicep-extensions)
+- [Practical Use of this.exists() and this.existingResource() in Azure Bicep](https://cloudadministrator.net/bicep-this-exists-function/bicep-this-exists-function/)
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
 - [Reusability with export and import in Azure Bicep](https://johnlokerse.dev/2024/01/08/reusability-with-export-and-import-in-azure-bicep/)
 - [Run PowerShell scripts with Azure Bicep](https://johnlokerse.dev/2022/12/04/run-powershell-scripts-with-azure-bicep/)
@@ -308,6 +309,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep Playground](https://aka.ms/bicepdemo)
 - [Check-Azure-Bicep - pre-commit hooks for Azure Bicep validation](https://github.com/Azure4DevOps/check-azure-bicep)
 - [GitHub Bicep Linting Action](https://github.com/marketplace/actions/bicep-linting)
+- [A module to run Bicep using PowerShell - Bicep 3.0.0](https://www.powershellgallery.com/packages/Bicep/3.0.0)
 
 ### Community Repositories
 
